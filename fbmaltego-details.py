@@ -12,7 +12,7 @@ def addIfNotNone(entity,value,toadd):
             trx.addEntity(entity,toadd+str(value).replace("<","&lt;"))
 
 addIfNotNone("megadose.versionsAdNumber",str(data["collationCount"]),"")
-addIfNotNone("megadose.Impressions",str(data["impressions"]),"")
+addIfNotNone("megadose.Impressions",str(data["impressionsWithIndex"]["impressionsText"]),"")
 addIfNotNone("megadose.Estimatereach",str(data["reachEstimate"]),"")
 addIfNotNone("megadose.Countreport",str(data["reportCount"]),"")
 
