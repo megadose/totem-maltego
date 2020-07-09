@@ -7,6 +7,6 @@ Totem allows you to use the facebook api to get information about the ads of a p
    [Python](https://www.python.org/downloads/release/python-370/)
 ## 🛠️ For the Installation check the [wiki](https://github.com/megadose/totem-maltego/wiki/Installation)  
 ## Démo  
-![](https://i.imgur.com/9UpQKm8.gif)
+![](https://github.com/megadose/gif-demo/raw/master/demo.gif)
 ## 📝 License
 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.fr.html)
