@@ -1,6 +1,6 @@
 # totem-maltego
 ### Educational purposes only
-Totem allows you to retrieve information about ads of a facebook page , we can retrieve the number of people targeted, how much the ad cost and a lot of other information.   
+[Totem](https://github.com/megadose/facebook_totem) allows you to retrieve information about ads of a facebook page , we can retrieve the number of people targeted, how much the ad cost and a lot of other information.   
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## 🛠️ For the Installation check the [wiki](https://github.com/megadose/totem-maltego/wiki/Installation)  
